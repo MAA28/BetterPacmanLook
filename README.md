@@ -15,6 +15,7 @@ pmlook() {
     fi
 }
 ```
+3. Now just close and open the console
 ## Testing
 ```
 cd BetterPacmanLook
