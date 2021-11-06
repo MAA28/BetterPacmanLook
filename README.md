@@ -15,3 +15,10 @@ pmlook() {
     fi
 }
 ```
+## Testing
+```
+cd BetterPacmanLook
+cat test.txt | python main.py
+```
+The result should be something like this:
+![Example.png]
