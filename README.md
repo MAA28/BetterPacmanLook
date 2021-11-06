@@ -21,4 +21,4 @@ cd BetterPacmanLook
 cat test.txt | python main.py
 ```
 The result should be something like this:
-![Example.png]
+![Example](https://github.com/MAA28/BetterPacmanLook/blob/main/Example.png)
